@@ -1,0 +1,2 @@
+//root
+require ('./app/index');
